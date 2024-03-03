@@ -22,19 +22,19 @@
     "url": "https://thasmo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/thasmo.com.ico",
     "slug": "test",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 194,
-    "timeDay": 194,
-    "timeWeek": 194,
-    "timeMonth": 194,
-    "timeYear": 194,
+    "status": "up",
+    "uptime": "26.21%",
+    "uptimeDay": "26.21%",
+    "uptimeWeek": "26.21%",
+    "uptimeMonth": "26.21%",
+    "uptimeYear": "26.21%",
+    "time": 187,
+    "timeDay": 187,
+    "timeWeek": 187,
+    "timeMonth": 187,
+    "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-03-03": 0
+      "2024-03-03": 32
     }
   }
 ]

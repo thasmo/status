@@ -5,6 +5,9 @@ sites:
   - name: UCG-Ultra
     url: https://eu.store.ui.com/eu/en/pro/category/all-unifi-cloud-gateways/products/ucg-ultra
     __dangerous__body_down_if_text_missing: 'Sold Out'
+  - name: TEST
+    url: https://thasmo.com/
+    __dangerous__body_down_if_text_missing: 'web matters'
 status-website:
   cname: status.thasmo.dev
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg

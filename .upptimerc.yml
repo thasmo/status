@@ -4,9 +4,8 @@ repo: status
 sites:
   - name: thasmo.com
     url: https://thasmo.com/
-  - name: UCG-Ultra
-    url: https://eu.store.ui.com/eu/en/pro/category/all-unifi-cloud-gateways/products/ucg-ultra
-    __dangerous__body_down: 'Sold Out'
+  - name: avatar.thasmo.com
+    url: https://avatar.thasmo.com/
 status-website:
   cname: status.thasmo.dev
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg

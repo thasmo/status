@@ -24,8 +24,8 @@
     "slug": "avatar-thasmo-com",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 530,
@@ -34,7 +34,7 @@
     "timeMonth": 1054,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2024-06-17": 0,
+      "2024-06-17": 1,
       "2024-03-28": 11,
       "2024-03-16": 41
     }

@@ -5,36 +5,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/thasmo.com.ico",
     "slug": "thasmo-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 408,
     "timeDay": 2602,
     "timeWeek": 863,
     "timeMonth": 400,
     "timeYear": 408,
-    "dailyMinutesDown": {
-      "2024-09-17": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "avatar.thasmo.com",
     "url": "https://avatar.thasmo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/avatar.thasmo.com.ico",
     "slug": "avatar-thasmo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 407,
-    "timeDay": 994,
+    "timeDay": 1389,
     "timeWeek": 687,
     "timeMonth": 422,
     "timeYear": 407,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-17": 0
+    }
   }
 ]

@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 308,
-    "timeWeek": 206,
-    "timeMonth": 192,
-    "timeYear": 294,
+    "time": 292,
+    "timeDay": 184,
+    "timeWeek": 208,
+    "timeMonth": 194,
+    "timeYear": 292,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/avatar.thasmo.com.ico",
     "slug": "avatar-thasmo-com",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 406,
-    "timeDay": 1009,
-    "timeWeek": 670,
-    "timeMonth": 414,
-    "timeYear": 406,
-    "dailyMinutesDown": {
-      "2024-09-16": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 407,
+    "timeDay": 994,
+    "timeWeek": 687,
+    "timeMonth": 422,
+    "timeYear": 407,
+    "dailyMinutesDown": {}
   }
 ]

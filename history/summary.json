@@ -22,17 +22,19 @@
     "url": "https://avatar.thasmo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/avatar.thasmo.com.ico",
     "slug": "avatar-thasmo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 379,
-    "timeDay": 232,
-    "timeWeek": 274,
-    "timeMonth": 423,
-    "timeYear": 379,
-    "dailyMinutesDown": {}
+    "time": 381,
+    "timeDay": 403,
+    "timeWeek": 312,
+    "timeMonth": 427,
+    "timeYear": 381,
+    "dailyMinutesDown": {
+      "2024-10-07": 0
+    }
   }
 ]

@@ -4,9 +4,9 @@
     "url": "https://thasmo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/thasmo.com.ico",
     "slug": "thasmo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 176,
     "timeMonth": 190,
     "timeYear": 251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-27": 0
+    }
   },
   {
     "name": "avatar.thasmo.com",
     "url": "https://avatar.thasmo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/avatar.thasmo.com.ico",
     "slug": "avatar-thasmo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 343,
     "timeYear": 416,
     "dailyMinutesDown": {
+      "2025-02-27": 0,
       "2024-10-08": 471,
       "2024-10-07": 169
     }

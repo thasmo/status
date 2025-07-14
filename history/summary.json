@@ -11,13 +11,31 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 372,
-    "timeWeek": 286,
-    "timeMonth": 350,
+    "timeDay": 137,
+    "timeWeek": 137,
+    "timeMonth": 448,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2025-02-27": 20
     }
+  },
+  {
+    "name": "resume.thasmo.com",
+    "url": "https://resume.thasmo.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/resume.thasmo.com.ico",
+    "slug": "resume-thasmo-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 209,
+    "timeDay": 209,
+    "timeWeek": 209,
+    "timeMonth": 209,
+    "timeYear": 209,
+    "dailyMinutesDown": {}
   },
   {
     "name": "avatar.thasmo.com",
@@ -25,15 +43,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/avatar.thasmo.com.ico",
     "slug": "avatar-thasmo-com",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 417,
-    "timeDay": 129,
-    "timeWeek": 251,
-    "timeMonth": 700,
+    "timeDay": 425,
+    "timeWeek": 425,
+    "timeMonth": 1003,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2025-05-07": 22,
@@ -41,5 +59,23 @@
       "2024-10-08": 471,
       "2024-10-07": 169
     }
+  },
+  {
+    "name": "api.thasmo.com",
+    "url": "https://api.thasmo.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/api.thasmo.com.ico",
+    "slug": "api-thasmo-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 116,
+    "timeDay": 116,
+    "timeWeek": 116,
+    "timeMonth": 116,
+    "timeYear": 116,
+    "dailyMinutesDown": {}
   }
 ]

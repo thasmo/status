@@ -4,8 +4,12 @@ repo: status
 sites:
   - name: thasmo.com
     url: https://thasmo.com/
+  - name: resume.thasmo.com
+    url: https://resume.thasmo.com/
   - name: avatar.thasmo.com
     url: https://avatar.thasmo.com/
+  - name: api.thasmo.com
+    url: https://api.thasmo.com/
 status-website:
   cname: status.thasmo.dev
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg

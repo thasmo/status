@@ -33,7 +33,7 @@
     "time": 539,
     "timeDay": 363,
     "timeWeek": 417,
-    "timeMonth": 496,
+    "timeMonth": 507,
     "timeYear": 539,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 463,
     "timeDay": 199,
     "timeWeek": 391,
-    "timeMonth": 385,
+    "timeMonth": 403,
     "timeYear": 477,
     "dailyMinutesDown": {
       "2025-05-07": 22,
@@ -65,17 +65,19 @@
     "url": "https://api.thasmo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.thasmo.com.ico",
     "slug": "api-thasmo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 144,
-    "timeWeek": 213,
-    "timeMonth": 271,
-    "timeYear": 332,
-    "dailyMinutesDown": {}
+    "time": 335,
+    "timeDay": 372,
+    "timeWeek": 262,
+    "timeMonth": 281,
+    "timeYear": 335,
+    "dailyMinutesDown": {
+      "2025-10-01": 0
+    }
   }
 ]

@@ -24,19 +24,19 @@
     "url": "https://resume.thasmo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/resume.thasmo.com.ico",
     "slug": "resume-thasmo-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 391,
-    "timeWeek": 342,
-    "timeMonth": 398,
-    "timeYear": 506,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 509,
+    "timeDay": 546,
+    "timeWeek": 399,
+    "timeMonth": 413,
+    "timeYear": 509,
     "dailyMinutesDown": {
-      "2025-10-20": 1
+      "2025-10-20": 22
     }
   },
   {

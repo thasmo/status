@@ -1,7 +1,7 @@
 url: https://api.thasmo.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-20T17:08:07.953Z
+status: up
+code: 200
+responseTime: 661
+lastUpdated: 2025-10-20T17:26:28.488Z
 startTime: 2025-07-14T13:11:31.309Z
 generator: Upptime <https://github.com/upptime/upptime>
